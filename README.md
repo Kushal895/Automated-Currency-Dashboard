@@ -1,8 +1,6 @@
 Automated Currency Exchange Rate Dashboard
 
-🔴 Live Dashboard: Click Here to View the Interactive Dashboard
-
-📊 Dashboard Demo
+🔴 Live Dashboard
 
 This project is a fully automated, 8-page interactive dashboard that tracks the daily exchange rate of the USD against seven major world currencies.
 
